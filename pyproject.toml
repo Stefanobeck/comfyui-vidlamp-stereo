@@ -9,6 +9,6 @@ dependencies = []
 Repository = "https://github.com/Stefanobeck/comfyui-vidlamp-stereo"
 
 [tool.comfy]
-PublisherId = "PUBLISHER_ID"
+PublisherId = "stefanobeck"
 DisplayName = "Vidlamp Stereo"
 Icon = ""
