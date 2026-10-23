@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-vidlamp-stereo"
+description = "Stereoscopic 3D from any video or image and its depth map: side by side, over/under, cross-eyed, red/cyan and red/blue anaglyphs. Z-buffered occlusions, holes filled from the background, steady depth across the clip, and a depth detail merge (Video Depth Anything + MoGe-2) for faces. Pure torch, no extra dependencies."
+version = "0.2.0"
+license = { file = "LICENSE" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/Stefanobeck/comfyui-vidlamp-stereo"
+
+[tool.comfy]
+PublisherId = "PUBLISHER_ID"
+DisplayName = "Vidlamp Stereo"
+Icon = ""
